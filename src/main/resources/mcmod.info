@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zombies_cornering_mod",
+  "name": "Hypixel Zombies Addon",
+  "description": "A mod that helps playing hypixel zombies. Fixes include hologram shoot",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["syeyoung"],
+  "credits": "The Forge and FML guys, for making awesome api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
